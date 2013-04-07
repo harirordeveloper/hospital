@@ -41,7 +41,7 @@ section{width:100%; background:#fff;float:left;}
 section article{width:1000px; margin:0 auto;color:black;}
 #imageSlideshowHolder{width:1000px;height:521px;position:relative;}
 .imageInGallery{width:1000px;height:521px;left:0;top:0;position:absolute;}
-#imageSlideshowHolder img{position:absolute;}
+#imageSlideshowHolder img{}
 /*
 aside.banner{width:1000px;position:absolute;z-index:100;float:left;}
 aside.banner h2 a{height:90px;width:121px;color:white; float:left;margin:-63px 0  0;background-position:-163px 0;text-indent:-99999px;}

@@ -10,7 +10,7 @@
     box-shadow: 0px 1px 5px #999999;
 }
 #slider img {
-	
+	position:absolute;
 	border:none;
 	display:none;
 }
